@@ -1,0 +1,12 @@
+{
+  "created_at": 1760634548,
+  "files": {
+    "timeseries_csv": "opf_p2p_ledger_timeseries.csv",
+    "totals_csv": "opf_p2p_ledger_totals.csv"
+  },
+  "interval_id": 1735689600,
+  "sha256": {
+    "timeseries": "6bded244f2dd5a726df0ae50ce4f6ea9c4158f77ef0dbc2015f6204a0bbab4f0",
+    "totals": "a877a6a9f6e2613e225c29a587e6139e968570b979c0e49932685b8a0a5049c6"
+  }
+}

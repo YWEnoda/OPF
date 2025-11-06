@@ -1,0 +1,12 @@
+UserA_energy_MWh,116.72748467667778
+UserB_discharge_MWh,9.807195066904761e-14
+UserB_charge_MWh,1.9283687690081725e-13
+UserC_energy_MWh,0.0
+UserA_cost_lin_total,58.36374233833889
+UserA_cost_quad_total,624.4931769516021
+UserA_revenue_total,1307.35015301365
+UserA_net_cash_total,624.493233723709
+UserB_cost_lin_total,9.807195066904762e-16
+UserB_cost_quad_total,1.5674290677648451e-27
+UserB_cashflow_total,-1.2329273827868991e-12
+UserC_payment_total,0.0
